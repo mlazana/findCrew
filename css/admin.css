@@ -1,0 +1,32 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+    font-family: 'Source Sans Pro'
+    color: #323232;
+    font-size: 15px;
+    font-weight: 400;
+    background-image: url("../images/admin2bl.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+.pagination {
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+body{padding-top:120px;}
