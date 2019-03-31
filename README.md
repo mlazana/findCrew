@@ -23,13 +23,8 @@ Crew profiles have been selected through a thorough assessment!
 
 ## Team
 
-Lazana Marietta      
-founder & CEO
-team member
+Lazana Marietta, Co-founder & CEO
 
-Petropoulos Ion
-founder & CTO
-team member
+Petropoulos Ion, Co-founder & CTO
 
-Bartza Maria
-Marketing Manager
+Bartza Maria, Marketing Manager
